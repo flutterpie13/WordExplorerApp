@@ -1,0 +1,431 @@
+[
+    {
+        "category": "Tiere",
+        "type": "Nomen",
+        "card": [
+            {
+                "word": "dog",
+                "scene": "A dog runs after the ball.",
+                "description": "Ein Hund jagt einen Ball."
+            },
+            {
+                "word": "cat",
+                "scene": "The cat sleeps on the pillow.",
+                "description": "Eine Katze schläft auf einem Kissen."
+            },
+            {
+                "word": "elephant",
+                "scene": "The elephant is big and gray.",
+                "description": "Ein Elefant im Zoo."
+            },
+            {
+                "word": "bird",
+                "scene": "The bird sings in the tree.",
+                "description": "Ein Vogel sitzt auf einem Baum und singt."
+            },
+            {
+                "word": "fish",
+                "scene": "The fish swims in the water.",
+                "description": "Ein Fisch schwimmt im Teich."
+            },
+            {
+                "word": "rabbit",
+                "scene": "The rabbit eats a carrot.",
+                "description": "Ein Kaninchen mit einer Karotte."
+            },
+            {
+                "word": "frog",
+                "scene": "The frog jumps into the water.",
+                "description": "Ein Frosch springt ins Wasser."
+            },
+            {
+                "word": "cow",
+                "scene": "The cow gives milk every morning.",
+                "description": "Eine Kuh auf der Weide."
+            },
+            {
+                "word": "sheep",
+                "scene": "The sheep are in the meadow.",
+                "description": "Eine Herde Schafe."
+            },
+            {
+                "word": "tiger",
+                "scene": "The tiger walks in the jungle.",
+                "description": "Ein Tiger in einer Dschungelszene."
+            }
+        ]
+    },
+    {
+        "category": "Tiere",
+        "type": "Verben",
+        "card": [
+            {
+                "word": "to fly",
+                "scene": "The bird flies in the sky.",
+                "description": "Ein Vogel fliegt über Bäume."
+            },
+            {
+                "word": "to jump",
+                "scene": "The rabbit jumps fast.",
+                "description": "Ein Kaninchen springt hoch."
+            },
+            {
+                "word": "to swim",
+                "scene": "The dolphin swims in the sea.",
+                "description": "Ein Delfin schwimmt im Meer."
+            },
+            {
+                "word": "to run",
+                "scene": "The horse runs on the field.",
+                "description": "Ein Pferd rennt über ein Feld."
+            },
+            {
+                "word": "to climb",
+                "scene": "The monkey climbs the tree.",
+                "description": "Ein Affe klettert auf einen Baum."
+            },
+            {
+                "word": "to bark",
+                "scene": "The dog barks at the mailman.",
+                "description": "Ein Hund bellt."
+            },
+            {
+                "word": "to purr",
+                "scene": "The cat purrs when happy.",
+                "description": "Eine schnurrende Katze."
+            },
+            {
+                "word": "to roar",
+                "scene": "The lion roars loudly.",
+                "description": "Ein Löwe brüllt."
+            },
+            {
+                "word": "to chirp",
+                "scene": "The bird chirps in the morning.",
+                "description": "Ein Vogel zwitschert auf einem Ast."
+            },
+            {
+                "word": "to hunt",
+                "scene": "The fox hunts for food.",
+                "description": "Ein Fuchs jagt im Wald."
+            }
+        ]
+    },
+    {
+        "category": "Tiere",
+        "type": "Adjektive",
+        "card": [
+            {
+                "word": "fast",
+                "scene": "The cheetah is very fast.",
+                "description": "Ein Gepard rennt."
+            },
+            {
+                "word": "small",
+                "scene": "The mouse is small and gray.",
+                "description": "Eine kleine graue Maus."
+            },
+            {
+                "word": "big",
+                "scene": "The whale is very big.",
+                "description": "Ein riesiger Wal im Meer."
+            },
+            {
+                "word": "cute",
+                "scene": "The puppy is so cute.",
+                "description": "Ein niedlicher Welpe."
+            },
+            {
+                "word": "wild",
+                "scene": "The lion is wild and strong.",
+                "description": "Ein Löwe in der Wildnis."
+            },
+            {
+                "word": "furry",
+                "scene": "The dog has soft, furry ears.",
+                "description": "Ein Hund mit flauschigen Ohren."
+            },
+            {
+                "word": "colorful",
+                "scene": "The parrot is colorful and beautiful.",
+                "description": "Ein bunter Papagei"
+            },
+            {
+                "word": "dangerous",
+                "scene": "The snake is dangerous.",
+                "description": "Eine Schlange züngelt."
+            },
+            {
+                "word": "friendly",
+                "scene": "A dolphin jumps out of the water.",
+                "description": "Ein Delfin springt aus dem Wasser."
+            },
+            {
+                "word": "noisy",
+                "scene": "The monkeys in the zoo are noisy.",
+                "description": "Laut schreiende Affen."
+            }
+        ]
+    },
+    {
+        "category": "Essen",
+        "type": "Nomen",
+        "card": [
+            {
+                "word": "apple",
+                "scene": "I eat an apple every day.",
+                "description": "Ein roter Apfel."
+            },
+            {
+                "word": "pizza",
+                "scene": "We love to eat pizza together.",
+                "description": "Eine Pizza wird geteilt."
+            },
+            {
+                "word": "bread",
+                "scene": "The baker makes fresh bread.",
+                "description": "Ein Laib Brot beim Bäcker."
+            },
+            {
+                "word": "milk",
+                "scene": "I drink a glass of milk.",
+                "description": "Ein Glas Milch auf einem Tisch."
+            },
+            {
+                "word": "chocolate",
+                "scene": "She eats chocolate after school.",
+                "description": "Ein Stück Schokolade."
+            },
+            {
+                "word": "noodels",
+                "scene": "I cook noodels.",
+                "description": "Ein roter Apfel."
+            },
+            {
+                "word": "cake",
+                "scene": "The cake is ready.",
+                "description": "Ein Geburtstagskuchen."
+            },
+            {
+                "word": "egg",
+                "scene": "We boil the egg in hot water.",
+                "description": "Ei in kochendem Wasser."
+            },
+            {
+                "word": "cheese",
+                "scene": "He eats a piece of cheese.",
+                "description": "Ein Junge isst ein Stück käse."
+            },
+            {
+                "word": "carrot",
+                "scene": "The rabbit etas a carrot",
+                "description": "Ein Hase isst eine Karotte."
+            }
+        ]
+    },
+    {
+        "category": "Essen",
+        "type": "Verben",
+        "card": [
+            {
+                "word": "to eat",
+                "scene": "The child eats a sandwich.",
+                "description": "Ein Kind isst ein Sandwich."
+            },
+            {
+                "word": "to drink",
+                "scene": "He drinks orange juice.",
+                "description": "Jemand trinkt Orangensaft."
+            },
+            {
+                "word": "to cook",
+                "scene": "She cooks soup for her family.",
+                "description": "Eine Person kocht Suppe."
+            },
+            {
+                "word": "to bake",
+                "scene": "They bake cookies together.",
+                "description": "Jemand backt Kekse."
+            },
+            {
+                "word": "to share",
+                "scene": "We share a big cake.",
+                "description": "Eine Gruppe teilt einen Kuchen."
+            },
+            {
+                "word": "to slice",
+                "scene": "He slices the bread for breakfast.",
+                "description": "Jemand schneidet das Brot."
+            },
+            {
+                "word": "to taste",
+                "scene": "She tastes the soup carefully.",
+                "description": "Jemand trinkt Orangensaft."
+            },
+            {
+                "word": "to mix",
+                "scene": "We mix the ingredientsfor the cake.",
+                "description": "Zutaten in einer Schüssel."
+            },
+            {
+                "word": "to buy",
+                "scene": "They buy fresh fruits at the market.",
+                "description": "Marktstand mit Obst."
+            },
+            {
+                "word": "to serve",
+                "scene": "We share a big cake.",
+                "description": "She serve the food on the table."
+            }
+        ]
+    },
+    {
+        "category": "Essen",
+        "type": "Adjective",
+        "card": [
+            {
+                "word": "delicious",
+                "scene": "The child eats ice cream.",
+                "description": "Ein Kind isst ein Eis."
+            },
+            {
+                "word": "hot",
+                "scene": "The soup is very hot.",
+                "description": "Ein dampfender Suppenteller."
+            },
+            {
+                "word": "sweet",
+                "scene": "The candy is sweet.",
+                "description": "Bunte Süßigkeiten.."
+            },
+            {
+                "word": "cold",
+                "scene": "The drink is cold.",
+                "description": " Ein kaltes Getränk."
+            },
+            {
+                "word": "fresh",
+                "scene": "The fruit is fresh and juicy.",
+                "description": "Ein Korb mit frischem Obst."
+            },
+            {
+                "word": "spicy",
+                "scene": "The curry is very spicy.",
+                "description": "Ein scharfes Gericht."
+            },
+            {
+                "word": "sour",
+                "scene": "The lemon is very sour.",
+                "description": "Ein beist in eine saure Zitrone."
+            },
+            {
+                "word": "yummy",
+                "scene": "The chocolate cake is yummy.",
+                "description": "Bunte Süßigkeiten.."
+            },
+            {
+                "word": "healthy",
+                "scene": "The vegetables ar very healthy.",
+                "description": " Ein Korb mit Gemüse."
+            },
+            {
+                "word": "crunchy",
+                "scene": "The toast is chrunchy and warm.",
+                "description": "Gerösteter Toast."
+            }
+        ]
+    },
+    {
+        "category": "Schule",
+        "type": "Nomen",
+        "card": [
+            {
+                "word": "book",
+                "scene": "I read a book in the library.",
+                "description": "Ein Kind liest ein Buch."
+            },
+            {
+                "word": "pencil",
+                "scene": "He writes with a yellow pencil.",
+                "description": "Ein kind schreibt mit einem gelben Stift."
+            },
+            {
+                "word": "teacher",
+                "scene": "The teacher explains the lesson.",
+                "description": "Ein Lehrer vor den Schülern."
+            },
+            {
+                "word": "desk",
+                "scene": "The child sits at the desk.",
+                "description": "Ein Kind sitzt an einem Schreibtisch."
+            },
+            {
+                "word": "blackboard",
+                "scene": "The teacher writes on the blackboard.",
+                "description": "Ein Lehrer schreibt an die Tafel."
+            }
+        ]
+    },
+    {
+        "category": "Schule",
+        "type": "Verben",
+        "card": [
+            {
+                "word": "to eat",
+                "scene": "The child eats a sandwich.",
+                "description": "Ein Kind isst ein Sandwich."
+            },
+            {
+                "word": "to drink",
+                "scene": "He drinks orange juice.",
+                "description": "Jemand trinkt Orangensaft."
+            },
+            {
+                "word": "to cook",
+                "scene": "She cooks soup for her family.",
+                "description": "Eine Person kocht Suppe."
+            },
+            {
+                "word": "to bake",
+                "scene": "They bake cookies together.",
+                "description": "Jemand backt Kekse."
+            },
+            {
+                "word": "to share",
+                "scene": "We share a big cake.",
+                "description": "Eine Gruppe teilt einen Kuchen."
+            }
+        ]
+        },
+        {
+            "category": "Schule",
+            "type": "Adjective",
+            "card": [
+            {
+                "word": "delicious",
+                "scene": "The child eats ice cream.",
+                "description": "Ein Kind isst ein Eis."
+            },
+            {
+                "word": "hot",
+                "scene": "The soup is very hot.",
+                "description": "Ein dampfender Suppenteller."
+            },
+            {
+                "word": "sweet",
+                "scene": "The candy is sweet.",
+                "description": "Bunte Süßigkeiten.."
+            },
+            {
+                "word": "cold",
+                "scene": "The drink is cold.",
+                "description": " Ein kaltes Getränk."
+            },
+            {
+                "word": "fresh",
+                "scene": "The fruit is fresh and juicy.",
+                "description": "Ein Korb mit frischem Obst."
+            }
+        ]
+    }
+]
