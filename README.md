@@ -1,1 +1,1 @@
-# VocabularyMemoryApp
+# WordExplorerApp
