@@ -1,0 +1,16 @@
+[
+    {
+      "word": "dog",
+      "sceneDescription": "A dog runs after the ball.",
+      "sceneImagePath": "assets/images/dog.png",
+      "wordType": "Noun",
+      "category": "Animals"
+    },
+    {
+      "word": "apple",
+      "sceneDescription": "An apple is red and sweet.",
+      "sceneImagePath": "assets/images/apple.png",
+      "wordType": "Noun",
+      "category": "Food"
+    }
+  ]
