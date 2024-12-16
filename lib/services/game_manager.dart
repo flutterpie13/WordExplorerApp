@@ -8,11 +8,13 @@ class GameManager {
   final Function(List<CardModel>)
       onCardsLoaded; // Callback zum Aktualisieren der Karten
   final Function() onGameReset; // Callback für Spiel-Reset
+  final Function(String) showMessage;
 
   GameManager({
     required this.context,
     required this.onCardsLoaded,
     required this.onGameReset,
+    required this.showMessage,
   });
 
   Future<void> loadCards(DifficultyLevel difficultyLevel) async {
@@ -72,6 +74,25 @@ class GameManager {
           );
         },
       );
+    }
+  }
+
+  void checkMatch(
+    CardModel card1,
+    CardModel card2,
+    DifficultyLevel difficultyLevel,
+    Function() onMatch,
+    Function() onNoMatch,
+  ) {
+    final isMatch = card1.pairId == card2.pairId;
+
+    if (isMatch) {
+      onMatch();
+    } else {
+      showMessage('No Match');
+      Future.delayed(const Duration(seconds: 1), () {
+        onNoMatch();
+      });
     }
   }
 }
